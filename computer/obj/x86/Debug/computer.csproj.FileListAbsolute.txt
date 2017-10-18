@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\computer\computer\bin\Debug\computer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\computer\computer\bin\Debug\computer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\computer\computer\obj\x86\Debug\computer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\computer\computer\obj\x86\Debug\computer.pdb
